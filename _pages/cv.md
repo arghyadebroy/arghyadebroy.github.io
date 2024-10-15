@@ -25,7 +25,7 @@ QuantAct Group, IISER Kolkata (PI: Dr. Sangita Sen)
 Astrochemistry@Kolkata Group, IASES Kolkata (PI: Dr. Ankan Das)
 * Project Student, 2022 – Present
   * Investigating Gas-Grain Surface Chemistry in the Interstellar Medium.
-• * Studying Reaction Dynamics of key interstellar species and its application in astrochemical models.
+  * Studying Reaction Dynamics of key interstellar species and its application in astrochemical models.
 
 Work experience
 ======
