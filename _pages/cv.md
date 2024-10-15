@@ -9,15 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+Education
 ======
 * Indian Institute of Science Education and Research (IISER) Kolkata, Expected May '25
   * 5-year Integrated BS-MS Dual Degree
   * Chemistry (Major) and Physics (Minor)
 
-## Research Affiliations
+Research Affiliations
 ======
-
 **QuantAct Group, IISER Kolkata (PI: Dr. Sangita Sen)**  
 *Master’s Student, 2023 – Present*  
 - Researching Potential Energy Surfaces of Interstellar Reactions.  
