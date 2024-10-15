@@ -17,6 +17,7 @@ redirect_from:
 
 ## Research Affiliations
 ======
+
 **QuantAct Group, IISER Kolkata (PI: Dr. Sangita Sen)**  
 *Master’s Student, 2023 – Present*  
 - Researching Potential Energy Surfaces of Interstellar Reactions.  
