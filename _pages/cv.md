@@ -9,23 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
-* Indian Institute of Science Education and Research (IISER) Kolkata, Expected May'25
+* Indian Institute of Science Education and Research (IISER) Kolkata, Expected May '25
   * 5-year Integrated BS-MS Dual Degree
   * Chemistry (Major) and Physics (Minor)
 
-Research Affiliations
+## Research Affiliations
 ======
-QuantAct Group, IISER Kolkata (PI: Dr. Sangita Sen)
-* Master’s Student, 2023 – Present
-  * Researching Potential Energy Surfaces of Interstellar Reactions.
-  * Computational study on molecular properties using ab initio methods and information theory.
-    
-Astrochemistry@Kolkata Group, IASES Kolkata (PI: Dr. Ankan Das)
-* Project Student, 2022 – Present
-  * Investigating Gas-Grain Surface Chemistry in the Interstellar Medium.
-  * Studying Reaction Dynamics of key interstellar species and its application in astrochemical models.
+**QuantAct Group, IISER Kolkata (PI: Dr. Sangita Sen)**  
+*Master’s Student, 2023 – Present*  
+- Researching Potential Energy Surfaces of Interstellar Reactions.  
+- Computational study on molecular properties using ab initio methods and information theory.  
+
+**[Astrochemistry@Kolkata Group](https://www.iases.org.in/Ankan-web/ankan.html), IASES Kolkata (PI: Dr. Ankan Das)**  
+*Project Student, 2022 – Present*  
+- Investigating Gas-Grain Surface Chemistry in the Interstellar Medium.  
+- Studying Reaction Dynamics of key interstellar species and its application in astrochemical models.  
 
 Work experience
 ======
