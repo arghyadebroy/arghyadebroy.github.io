@@ -25,7 +25,20 @@ Research Affiliations
 **[Astrochemistry@Kolkata Group](https://www.iases.org.in/Ankan-web/ankan.html), IASES Kolkata (PI: Dr. Ankan Das)**  
 *Project Student, 2022 – Present*  
 - Investigating Gas-Grain Surface Chemistry in the Interstellar Medium.  
-- Studying Reaction Dynamics of key interstellar species and its application in astrochemical models.  
+- Studying Reaction Dynamics of key interstellar species and its application in astrochemical models.
+
+Research Experience
+======
+**Summer 2024: CASSUM Research Fellow** 
+  * Department of Space, Earth and Environment, Chalmers University of Technology
+  * Project on Cosmic Ray Astrochemistry: Investigating radiation Signatures in PDRs
+  * Supervisor: Dr. Brandt A. L. Gaches
+  * Co-Supervisors: Dr. Chia-Jung Hsu; Prof. Jonathan Tan
+
+**Summer 2022: Summer Intern** 
+  * Department of Physical and Inorganic Chemistry, IISc Bangalore
+  * Project on Gas-Grain chemistry: Heterogeneous catalysis study using Density Functional Theory (DFT).
+  * Supervisor: Dr. Atanu Bhattacharya
 
 Work experience
 ======
