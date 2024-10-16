@@ -2,11 +2,10 @@
 title: "Assessing realistic binding energies of some essential interstellar radicals with amorphous solid water - A fully quantum chemical approach"
 collection: publications
 category: article
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: https://www.aanda.org/articles/aa/full_html/2024/10/aa51642-24/aa51642-24.html
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-10-11
 venue: 'Astronomy & Astrophysics'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.aanda.org/articles/aa/pdf/2024/10/aa51642-24.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
