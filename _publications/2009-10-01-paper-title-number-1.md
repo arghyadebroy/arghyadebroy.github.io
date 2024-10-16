@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Assessing realistic binding energies of some essential interstellar radicals with amorphous solid water - A fully quantum chemical approach"
 collection: publications
-category: manuscripts
+category: journal article
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+date: 2024-10-11
+venue: 'Astronomy & Astrophysics'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://doi.org/10.1051/0004-6361/202451642'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
