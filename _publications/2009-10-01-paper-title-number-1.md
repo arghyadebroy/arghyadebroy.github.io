@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Assessing realistic binding energies of some essential interstellar radicals with amorphous solid water - A fully quantum chemical approach"
 collection: publications
 category: article
 permalink: /publication/2010-10-01-paper-title-number-2
