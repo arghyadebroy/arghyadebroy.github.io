@@ -7,6 +7,6 @@ excerpt: 'Here, we employed a fully quantum chemical approach to estimate the BE
 date: 2024-10-11
 venue: 'Astronomy & Astrophysics'
 paperurl: 'https://www.aanda.org/articles/aa/pdf/2024/10/aa51642-24.pdf'
-citation: 'M. Sil, <i>A. Roy<\i>, P. Gorai, N. Nakatani, T. Shimonishi, K. Furuya, N. Inostroza-Pino, P. Caselli and A. Das, A&A, 690 (2024) A252'
+citation: 'M. Sil, <b>A. Roy</b>, P. Gorai, N. Nakatani, T. Shimonishi, K. Furuya, N. Inostroza-Pino, P. Caselli and A. Das, A&A, 690 (2024) A252'
 ---
 
