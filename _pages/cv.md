@@ -60,6 +60,13 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+Lectures, Conferences and Seminars
+======
+* IINCM 2024 Conference, IISER Kolkata  *(Best poster award from Royal Society of Chemistry)*
+* SICS 2023 Seminar, IISER Kolkata
+* Evening Course on Astronomy and Astrophysics, IASES, 2023
+* DIG Astrochemistry Webinar, IASES, PRL, Europlanet Society, Niigata University, Quantum Research Center, 2022
   
 Teaching
 ======
@@ -67,6 +74,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Fellowship
 ======
-* Currently signed in to 43 different slack teams
+**INSPIRE Fellow, Department of Science & Technology, India**  
+*2020 – Present* 
