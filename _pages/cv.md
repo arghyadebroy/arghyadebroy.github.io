@@ -39,32 +39,15 @@ Research Experience
   * Department of Physical and Inorganic Chemistry, IISc Bangalore
   * Project on Gas-Grain chemistry: Heterogeneous catalysis study using Density Functional Theory (DFT).
   * Supervisor: Dr. Atanu Bhattacharya
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Skill: Python, Julia, MATLAB, Shell Scripting, Ubuntu (OS), Windows (OS)
+* Softwares
+  * Writeup: MS Office, LATEX
+  * Plotting: Origin, GnuPlot, Python
+  * Quantum Chem: Gaussian, ORCA, Gamess, Qchem, Avogadro, Multiwfn, ChemCraft
+* Astrochemical codes: RADMC-3D, 3D-PDR
 
 Publications
 ======
