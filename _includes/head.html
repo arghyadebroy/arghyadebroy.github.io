@@ -2,7 +2,12 @@
 
 <meta charset="utf-8">
 
-{% include seo.html %}
+<head>
+  {% include seo.html %}
+  <title>{{ page.title | default: site.title }}</title> <!-- Add this line -->
+  {% include head/custom.html %}
+</head>
+
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
