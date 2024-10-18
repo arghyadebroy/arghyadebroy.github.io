@@ -61,7 +61,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Lectures, Conferences and Seminars
+Lectures and Seminars
 ======
 * IINCM 2024 Conference, IISER Kolkata  *(Best poster award from Royal Society of Chemistry)*
 * SICS 2023 Seminar, IISER Kolkata
