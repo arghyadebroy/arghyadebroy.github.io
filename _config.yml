@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Arghyadeb Roy"
 title_separator          : "-"
 name                     : &name "Arghyadeb Roy"
-description              : &description "আমি অর্ঘ্য"
+description              : &description "Discipline: Quantum Chemistry, Computational Chemistry, Astrochemistry, Astrophysics"
 url                      : https://arghyadebroy.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arghyadebroy/arghyadebroy.github.io"
