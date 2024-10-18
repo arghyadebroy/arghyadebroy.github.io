@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-autumn-teaching
 venue: "IISER Kolkata, Department of Chemical Sciences"
-date: 2023-01-02
+date: 2023-08-01
 location: "Kolkata, India"
 ---
 
