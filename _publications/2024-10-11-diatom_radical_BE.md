@@ -3,7 +3,7 @@ title: "Assessing realistic binding energies of some essential interstellar radi
 collection: publications
 category: manuscripts
 permalink: https://www.aanda.org/articles/aa/full_html/2024/10/aa51642-24/aa51642-24.html
-excerpt: 'Paper on regorous quantum chemical calculations to estimate the Binding Energy of seven diatomic radicals – CH, NH, OH, SH, CN, NS, and NO – with their astrochemical implication in modeling.'
+excerpt: 'Paper on rigorous quantum chemical calculations to estimate the Binding Energy of seven diatomic radicals – CH, NH, OH, SH, CN, NS, and NO – with their astrochemical implication in modeling.'
 date: 2024-10-11
 venue: 'Astronomy & Astrophysics'
 paperurl: 'https://www.aanda.org/articles/aa/full_html/2024/10/aa51642-24/aa51642-24.html'
