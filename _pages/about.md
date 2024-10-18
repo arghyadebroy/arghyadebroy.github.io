@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Arghyadeb Roy's Space"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
