@@ -2,6 +2,5 @@
 title: "To be included"
 collection: publications
 category: conferences
-date: 
-venue: 
+date: 20XX-XX-XX
 ---
