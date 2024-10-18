@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "CH2102 - Quantum Chemistry I"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2023-autumn-teaching
+venue: "IISER Kolkata, Department of Chemical Sciences"
+date: 2023-01-02
+location: "Kolkata, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course offers an introduction to key principles of Quantum Chemistry. It covers the transition from Classical Mechanics to Quantum Mechanics, addressing phenomena like black body radiation, the photoelectric effect, and wave-particle duality. Topics include the fundamentals of quantum mechanics: wavefunctions, operators, eigenfunctions, and key solutions to quantum problems such as the particle in a box, the harmonic oscillator, the rigid rotor, and the hydrogen atom. The course combines theory with mathematical tools like Dirac notation and matrix operators, preparing students for advanced quantum studies.
