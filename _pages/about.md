@@ -9,7 +9,7 @@ redirect_from:
 
 # Welcome to My Space of Quantum-Astro-Chemie
 
-**The Nexus of Quantum Chemistry and Molecular Astrophysics/Astrochemistry**
+**The Nexus of Quantum Chemistry, Molecular Science, and Astrophysical Realms**
 
 I am a master's student at the Indian Institute of Science Education and Research (IISER), Kolkata, exploring the fascinating intersection between quantum chemistry and molecular astrophysics. My research focuses on understanding the complex chemical processes occurring in the cosmos, driven by energetic phenomena such as cosmic rays and molecular interactions.
 
@@ -18,9 +18,9 @@ I am a master's student at the Indian Institute of Science Education and Researc
 ## Areas of Research
 
 ### Gas-Grain Astrochemistry
-This area investigates the interactions between gas-phase molecules and solid grains in molecular clouds, leading to the formation of complex organic species. Understanding these processes is crucial for unraveling the origins of life in the universe.
+<img src="/images/iincm_rotated_page-0001.jpg" alt="Gas-Grain Astrochemistry" style="width: 300px; height: auto; float: right; margin-left: 20px;"/>
 
-<img src="path/to/gas-grain-image.jpg" alt="Gas-Grain Astrochemistry" style="width: 300px; height: auto; float: right; margin-left: 20px;"/>
+This area investigates the interactions between gas-phase molecules and solid grains in molecular clouds, leading to the formation of complex organic species. Understanding these processes is crucial for unraveling the origins of life in the universe.
 
 ---
 
