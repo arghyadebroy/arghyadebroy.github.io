@@ -1,7 +1,7 @@
 ---
 title: "Radiation Signatures of Cosmic Ray Astrochemistry"
 collection: Presentation
-type: "Talk"
+type: "Presentation"
 permalink: /Presentation/2024-07-25-Presentation
 venue: "CASSUM-VICO-CICO Symposium"
 date: 2024-07-25
