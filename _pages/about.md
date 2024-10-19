@@ -9,7 +9,7 @@ redirect_from:
 
 # Welcome to My Space of Quantum-Astro-Chemie
 
-**The Nexus of Quantum Chemistry and Molecular Astrophysics/Astrochemistry**
+**The Nexus of Quantum Chemistry and Molecular Astrophysics**
 
 I am a master's student at the Indian Institute of Science Education and Research (IISER), Kolkata, exploring the fascinating intersection between quantum chemistry and molecular astrophysics. My research focuses on understanding the complex chemical processes occurring in the cosmos, driven by energetic phenomena such as cosmic rays and molecular interactions.
 
@@ -25,7 +25,7 @@ This area investigates the interactions between gas-phase molecules and solid gr
 
 ---
 
-### Quantum Dynamics
+### Quantum Reaction Dynamics
 
 <img src="/images/500x300.png" alt="Quantum Dynamics" style="width: 300px; height: auto; float: right; margin-left: 20px;"/>
 
