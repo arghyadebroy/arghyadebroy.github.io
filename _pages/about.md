@@ -18,23 +18,26 @@ I am a master's student at the Indian Institute of Science Education and Researc
 ## Areas of Research
 
 ### Gas-Grain Astrochemistry
-This area investigates the interactions between gas-phase molecules and solid grains in molecular clouds, leading to the formation of complex organic species. Understanding these processes is crucial for unraveling the origins of life in the universe.
 
 <img src="/images/500x300.png" alt="Gas-Grain Astrochemistry" style="width: 300px; height: auto; float: right; margin-left: 20px;"/>
+
+This area investigates the interactions between gas-phase molecules and solid grains in molecular clouds, leading to the formation of complex organic species. Understanding these processes is crucial for unraveling the origins of life in the universe.
 
 ---
 
 ### Quantum Dynamics
-Quantum dynamics explores how quantum mechanical effects influence the behavior and interactions of molecules in astrophysical environments. This field provides insights into reaction mechanisms and energy transfer processes critical to astrochemical models.
 
 <img src="/images/500x300.png" alt="Quantum Dynamics" style="width: 300px; height: auto; float: right; margin-left: 20px;"/>
+
+Quantum dynamics explores how quantum mechanical effects influence the behavior and interactions of molecules in astrophysical environments. This field provides insights into reaction mechanisms and energy transfer processes critical to astrochemical models.
 
 ---
 
 ### Cosmic Ray Astrochemistry
-Cosmic ray astrochemistry studies the chemical and physical effects induced by cosmic rays in molecular clouds. This research aims to understand how these high-energy particles contribute to molecular formation and the broader implications for star and planet formation.
 
 <img src="/images/500x300.png" alt="Cosmic Ray Astrochemistry" style="width: 300px; height: auto; float: right; margin-left: 20px;"/>
+
+Cosmic ray astrochemistry studies the chemical and physical effects induced by cosmic rays in molecular clouds. This research aims to understand how these high-energy particles contribute to molecular formation and the broader implications for star and planet formation.
 
 ---
 
