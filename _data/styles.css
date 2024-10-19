@@ -1,0 +1,27 @@
+html {
+    scroll-behavior: smooth; /* Enables smooth scrolling */
+}
+
+nav a {
+    transition: color 0.3s ease, background-color 0.3s ease; /* Transition for links */
+}
+
+nav a:hover {
+    color: #007bff; /* Change text color on hover */
+    background-color: rgba(0, 123, 255, 0.1); /* Add background color on hover */
+}
+
+/* Example styling for the header/navigation */
+header {
+    background-color: #f0f0f0; /* Initial header color */
+    padding: 10px;
+    position: fixed; /* Keeps the header fixed on top */
+    width: 100%; /* Full width */
+    z-index: 1000; /* Ensures it's above other content */
+    transition: background-color 0.5s ease; /* Transition for header color */
+}
+
+header.scrolled {
+    background-color: #333; /* Change color when scrolled */
+    color: #fff; /* Change text color when scrolled */
+}
