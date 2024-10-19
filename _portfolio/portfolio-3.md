@@ -1,8 +1,9 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/iases_rotated_page-0001.jpg'>"
+title: "Certificate of Participation"
+excerpt: "Awarded for participation in the *Evening Courses on Astronomy and Astrophysics* organized by IASES Kolkata. These courses offered a multidisciplinary approach, integrating key concepts from astronomy, astrophysics, astrochemistry, and cosmology. Participants engaged in hands-on programming exercises and data analysis, enhancing their understanding of the universe's fundamental principles and fostering skills applicable to contemporary astrophysical research and exploration.
+ <br/><img src='/images/iases_rotated_page-0001.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Awarded for participation in the *Evening Courses on Astronomy and Astrophysics* organized by IASES Kolkata. These courses offered a multidisciplinary approach, integrating key concepts from astronomy, astrophysics, astrochemistry, and cosmology. Participants engaged in hands-on programming exercises and data analysis, enhancing their understanding of the universe's fundamental principles and fostering skills applicable to contemporary astrophysical research and exploration.
 <br/><img src='/images/iases_rotated_page-0001.jpg'>
