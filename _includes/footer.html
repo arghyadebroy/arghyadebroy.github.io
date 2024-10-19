@@ -1,56 +1,42 @@
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+{% include base_path %}
 
-  <!-- Left Section: Sitemap and Contact Info -->
-  <div style="width: 60%;">
-    {% include base_path %}
-
-    <!-- Social Icons and Sitemap -->
-    {% if site.author.github or site.author.bitbucket %}
-    <div class="page__footer-follow">
-      <ul class="social-icons">
-        {% if site.data.ui-text[site.locale].follow_label %}
-        <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-        {% endif %}
-        {% if site.author.github %}
-        <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-        {% endif %}
-      </ul>
-    </div>
+{% if site.author.github or site.author.bitbucket %}
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
+    {% if site.author.github %}
+      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+    {% endif %}
+    {% if site.author.bitbucket %}
+      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+    {% endif %}
+  </ul>
+</div>
+{% endif %}
 
-    <!-- Mailing Address and Email -->
-    <p><strong>Mailing Address:</strong><br>
-      Your Name<br>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  
+  <!-- Left Section: Mailing Address and Email -->
+  <div class="page__footer-copyright">
+    &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
+    Site last updated {{ "now" | date: '%Y-%m-%d' }}<br />
+    
+    <!-- Add Mailing Address -->
+    <p>Mailing Address: Your Name<br>
       Your Street Address<br>
       City, State, Zip Code<br>
       Country</p>
-      
-    <p><strong>Contact me:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a></p>
 
-    <!-- Copyright Info -->
-    <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }},
-      {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }}
-      <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp;
-      <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of
-      <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br>
-      Site last updated {{ "now" | date: '%Y-%m-%d' }}.
-    </p>
+    <!-- Add Email Address -->
+    <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
   </div>
 
   <!-- Right Section: Google Map -->
-  <div style="width: 35%; text-align: right;">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.6300797410327!2d88.52192737578463!3d22.963846818516256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f8bf0ebd68bc8b%3A0x92d423474389ff5c!2sIndian%20Institute%20of%20Science%20Education%20and%20Research%20Kolkata%20(IISER%20Kolkata)!5e0!3m2!1sen!2sin!4v1729282468851!5m2!1sen!2sin" width="300" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <div style="float: right; width: 400px;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.6300797410327!2d88.52192737578463!3d22.963846818516256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f8bf0ebd68bc8b%3A0x92d423474389ff5c!2sIndian%20Institute%20of%20Science%20Education%20and%20Research%20Kolkata%20(IISER%20Kolkata)!5e0!3m2!1sen!2sin!4v1729282468851!5m2!1sen!2sin" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
+
 </div>
 
-<style>
-  .social-icons {
-    list-style: none;
-    padding: 0;
-  }
-  
-  .social-icons li {
-    display: inline-block;
-    margin-right: 10px;
-  }
-</style>
