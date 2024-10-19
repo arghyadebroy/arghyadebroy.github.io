@@ -42,10 +42,10 @@ Cosmic ray astrochemistry studies the chemical and physical effects induced by c
 ---
 
 ## Research Overview
-
-In my work, I analyze the interactions between cosmic rays and molecular gases, focusing on how these high-energy particles drive a rich tapestry of chemistry in interstellar environments. Each of my research areas aims to illuminate the fundamental processes that govern the formation and evolution of molecular species in the cosmos.
+My research work encompasses three interrelated areas: Gas-grain astrochemistry, where I investigate ice surface adsorption, desorption, and surface-mediated chemical reaction pathways and kinetics; the generation of potential energy surfaces and dynamic studies of key reactions that unravel the complexities of interstellar chemistry; and cosmic ray astrochemistry, focusing on how high-energy cosmic rays influence molecular gases and drive chemical processes in interstellar environments. Together, these aspects aim to enhance our understanding of the fundamental processes that govern the formation and evolution of complex species in the molecular universe.
 
 ---
 
 ### Further Exploration
-For more detailed information about each research area, visit the respective pages linked above. If you have any questions or would like to discuss potential collaborations, feel free to reach out!
+To learn more about my research and explore the fascinating aspects of astrochemistry and molecular interactions in the ISM, feel free to dive deeper into the work showcased here. If you have any questions or would like to discuss potential collaborations, I'd be happy to connect and explore exciting possibilities together!
+
