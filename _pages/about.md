@@ -11,7 +11,7 @@ redirect_from:
 
 **The Nexus of Quantum Chemistry and Molecular Astrophysics**
 
-I am a master's student at the Indian Institute of Science Education and Research (IISER), Kolkata, exploring the fascinating intersection between quantum chemistry and molecular astrophysics. My research focuses on understanding the complex chemical processes occurring in the cosmos, driven by energetic phenomena such as cosmic rays and molecular interactions.
+I am a master's student at the Indian Institute of Science Education and Research (IISER), Kolkata, exploring the fascinating intersection between quantum chemistry and molecular astrophysics. My research focuses on understanding the complex chemical processes occurring in the Intesteller Medium (ISM), driven by molecular interactions and bombardment of energetic, charged partcles (<1 GeV) dubbed Cosmic-Rays (CRs), triggering in a diverse zoo of chemical species interconnected by dynamical pathways.
 
 ---
 
