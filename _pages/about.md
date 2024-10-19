@@ -21,7 +21,7 @@ I am a master's student at the Indian Institute of Science Education and Researc
 
 <img src="/images/500x300.png" alt="Gas-Grain Astrochemistry" style="width: 300px; height: auto; float: right; margin-left: 20px;"/>
 
-This area investigates the interactions between gas-phase molecules and solid grains in molecular clouds, leading to the formation of complex organic species. Understanding these processes is crucial for unraveling the origins of life in the universe.
+This area investigates the interactions between gas-phase molecules and solid grains within molecular clouds, particularly in higher density regions and dark clouds, which facilitate the formation of complex organic species through processes such as adsorption and desorption. My research delves into the kinetics of these surface-mediated chemical reactions, which are essential for understanding the pathways leading to the synthesis of prebiotic molecules. This understanding is crucial for unraveling the origins of life in the universe, as it provides insights into the chemical processes that contribute to molecular complexity in interstellar environments.
 
 ---
 
@@ -29,7 +29,7 @@ This area investigates the interactions between gas-phase molecules and solid gr
 
 <img src="/images/500x300.png" alt="Quantum Dynamics" style="width: 300px; height: auto; float: right; margin-left: 20px;"/>
 
-Quantum dynamics explores how quantum mechanical effects influence the behavior and interactions of molecules in astrophysical environments. This field provides insights into reaction mechanisms and energy transfer processes critical to astrochemical models.
+Quantum dynamics investigates reaction dynamics in both ground and excited states by generating potential energy surfaces and performing quantum dynamics simulations. My research aims to determine reaction rates from these analyses, which can be further incorporated into astrochemical models. This approach enhances our understanding of the energetic landscapes governing molecular interactions in astrophysical environments and provides critical insights into the mechanisms driving chemical processes in the interstellar medium.
 
 ---
 
@@ -37,12 +37,12 @@ Quantum dynamics explores how quantum mechanical effects influence the behavior 
 
 <img src="/images/500x300.png" alt="Cosmic Ray Astrochemistry" style="width: 300px; height: auto; float: right; margin-left: 20px;"/>
 
-Cosmic ray astrochemistry studies the chemical and physical effects induced by cosmic rays in molecular clouds. This research aims to understand how these high-energy particles contribute to molecular formation and the broader implications for star and planet formation.
+Cosmic ray astrochemistry investigates the chemical and physical effects induced by cosmic rays in molecular clouds, with a particular emphasis on proton-dominated regions (PDRs). My research aims to understand the chemistry within these regions, where high-energy particles play a crucial role in molecular formation. Additionally, I focus on radiative transfer modeling to analyze the impact of cosmic rays on high ro-vibrational lines of molecules. This research is essential for elucidating the role of cosmic ray physics on the cloud chemistry in the low density star-forming regions.
 
 ---
 
 ## Research Overview
-My research work encompasses three interrelated areas: Gas-grain astrochemistry, where I investigate ice surface adsorption, desorption, and surface-mediated chemical reaction pathways and kinetics; the generation of potential energy surfaces and dynamic studies of key reactions that unravel the complexities of interstellar chemistry; and cosmic ray astrochemistry, focusing on how high-energy cosmic rays influence molecular gases and drive chemical processes in interstellar environments. Together, these aspects aim to enhance our understanding of the fundamental processes that govern the formation and evolution of complex species in the molecular universe.
+My research work encompasses three interrelated areas: gas-grain astrochemistry, where I investigate ice surface adsorption, desorption, and surface-mediated chemical reaction pathways and kinetics; the generation of potential energy surfaces and dynamic studies of key reactions that unravel the complexities of interstellar chemistry; and cosmic ray astrochemistry, focusing on how high-energy cosmic rays influence molecular gases and drive chemical processes in interstellar environments. Together, these aspects aim to enhance our understanding of the fundamental processes that govern the formation and evolution of complex species in the molecular universe.
 
 ---
 
