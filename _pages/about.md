@@ -15,7 +15,13 @@ redirect_from:
     line-height: 1.6;
   }
 
-  h1, h2, h3 {
+  h1 {
+    font-size: 1.5em; /* Smaller font size for the main heading */
+    margin-top: 40px; /* Space above the heading */
+    color: #333;
+  }
+
+  h2, h3 {
     color: #333;
   }
 
@@ -29,9 +35,11 @@ redirect_from:
 
   .section {
     display: flex;
-    flex-wrap: wrap;
     align-items: flex-start;
+    justify-content: space-between; /* Ensure space between text and image */
     margin-bottom: 40px;
+    width: 100%; /* Use full width */
+    flex-wrap: nowrap; /* Prevent wrapping */
   }
 
   .text {
@@ -49,7 +57,7 @@ redirect_from:
 
   @media (max-width: 768px) {
     .section {
-      flex-direction: column;
+      flex-direction: column; /* Stack text and image on smaller screens */
       align-items: center;
     }
 
@@ -111,3 +119,4 @@ redirect_from:
     To learn more about my research and explore the fascinating aspects of astrochemistry and molecular interactions in the ISM, feel free to dive deeper into the work showcased here. If you have any questions or would like to discuss potential collaborations, I'd be happy to connect and explore exciting possibilities together!
   </p>
 </div>
+
