@@ -1,8 +1,7 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/iincm_rotated_page-0001.jpg'>"
+title: "Certificate of Participation"
+excerpt: "Certificate of Participationin the *IINCM Seminar*, an event emphasizing sustainability and interdisciplinarity in chemical sciences. <br/><img src='/images/iincm_rotated_page-0001.jpg'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Certificate of Participationin the *IINCM Seminar*, an event emphasizing sustainability and interdisciplinarity in chemical sciences.
 <br/><img src='/images/iincm_rotated_page-0001.jpg'>
