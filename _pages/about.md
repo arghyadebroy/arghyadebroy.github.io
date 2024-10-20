@@ -47,7 +47,7 @@ This research explores the interactions between gas-phase molecules and solid gr
 
 <img src="/images/500x300.png" alt="Quantum Dynamics" style="width: 300px; height: auto; float: right; margin-left: 20px;"/>
 
-My research in quantum dynamics examines reaction mechanisms in both ground and excited states by generating potential energy surfaces and conducting simulations. This work aims to determine reaction rates for incorporation into astrochemical models, enhancing our understanding of molecular interactions in astrophysical environments.
+The research in quantum dynamics examines reaction mechanisms in both ground and excited states by generating potential energy surfaces and conducting simulations. This work aims to determine reaction rates for incorporation into astrochemical models, enhancing our understanding of molecular interactions in astrophysical environments.
 
 ---
 
@@ -55,7 +55,7 @@ My research in quantum dynamics examines reaction mechanisms in both ground and 
 
 <img src="/images/500x300.png" alt="Cosmic Ray Astrochemistry" style="width: 300px; height: auto; float: right; margin-left: 20px;"/>
 
-My research in cosmic ray astrochemistry explores the effects of cosmic rays on molecular clouds, particularly in proton-dominated regions (PDRs). I aim to understand how high-energy particles influence molecular formation and use radiative transfer modeling to assess their impact on high ro-vibrational lines of molecules, shedding light on cloud chemistry in low-density star-forming regions.
+The research in cosmic ray astrochemistry explores the effects of cosmic rays on molecular clouds, particularly in proton-dominated regions (PDRs). I aim to understand how high-energy particles influence molecular formation and use radiative transfer modeling to assess their impact on high ro-vibrational lines of molecules, shedding light on cloud chemistry in low-density star-forming regions.
 
 ---
 
