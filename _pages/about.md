@@ -33,29 +33,64 @@ redirect_from:
       
 ---
 
-## Areas of Research
+<style>
+  .research-section {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
 
-### Gas-Grain Astrochemistry
+  .research-section img {
+    width: 300px;
+    height: auto;
+    margin-left: 20px;
+  }
 
-<img src="/images/500x300.png" alt="Gas-Grain Astrochemistry" style="width: 300px; height: auto; float: right; margin-left: 20px;"/>
+  .research-section div {
+    flex-grow: 1;
+  }
 
-This research explores the interactions between gas-phase molecules and solid grains in molecular clouds, particularly in dense regions. It focuses on the kinetics of surface-mediated reactions, essential for understanding the formation of complex organic species and the origins of life in the universe.
+  /* Media query for mobile devices */
+  @media (max-width: 768px) {
+    .research-section {
+      flex-direction: column;
+      align-items: flex-start;
+    }
 
----
+    .research-section img {
+      width: 100%;
+      margin: 0 0 10px 0;
+    }
+  }
+</style>
 
-### Quantum Reaction Dynamics
+<!-- Gas-Grain Astrochemistry Section -->
+<div class="research-section">
+  <div>
+    <h2>Gas-Grain Astrochemistry</h2>
+    <p>This research explores the interactions between gas-phase molecules and solid grains in molecular clouds, particularly in dense regions. It focuses on the kinetics of surface-mediated reactions, essential for understanding the formation of complex organic species and the origins of life in the universe.</p>
+  </div>
+  <img src="/images/500x300.png" alt="Gas-Grain Astrochemistry">
+</div>
 
-<img src="/images/500x300.png" alt="Quantum Dynamics" style="width: 300px; height: auto; float: right; margin-left: 20px;"/>
+<!-- Quantum Reaction Dynamics Section -->
+<div class="research-section">
+  <div>
+    <h2>Quantum Reaction Dynamics</h2>
+    <p>The research in quantum dynamics examines reaction mechanisms in both ground and excited states by generating potential energy surfaces and conducting simulations. This work aims to determine reaction rates for incorporation into astrochemical models, enhancing our understanding of molecular interactions in astrophysical environments.</p>
+  </div>
+  <img src="/images/500x300.png" alt="Quantum Dynamics">
+</div>
 
-The research in quantum dynamics examines reaction mechanisms in both ground and excited states by generating potential energy surfaces and conducting simulations. This work aims to determine reaction rates for incorporation into astrochemical models, enhancing our understanding of molecular interactions in astrophysical environments.
+<!-- Cosmic Ray Astrochemistry Section -->
+<div class="research-section">
+  <div>
+    <h2>Cosmic Ray Astrochemistry</h2>
+    <p>The research in cosmic ray astrochemistry explores the effects of cosmic rays on molecular clouds, particularly in proton-dominated regions (PDRs). I aim to understand how high-energy particles influence molecular formation and use radiative transfer modeling to assess their impact on high ro-vibrational lines of molecules, shedding light on cloud chemistry in low-density star-forming regions.</p>
+  </div>
+  <img src="/images/500x300.png" alt="Cosmic Ray Astrochemistry">
+</div>
 
----
-
-### Cosmic Ray Astrochemistry
-
-<img src="/images/500x300.png" alt="Cosmic Ray Astrochemistry" style="width: 300px; height: auto; float: right; margin-left: 20px;"/>
-
-The research in cosmic ray astrochemistry explores the effects of cosmic rays on molecular clouds, particularly in proton-dominated regions (PDRs). I aim to understand how high-energy particles influence molecular formation and use radiative transfer modeling to assess their impact on high ro-vibrational lines of molecules, shedding light on cloud chemistry in low-density star-forming regions.
 
 ---
 
