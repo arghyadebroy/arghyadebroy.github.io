@@ -64,6 +64,8 @@ redirect_from:
   }
 </style>
 
+<h1 style="text-align: center;">Areas of Research</h1>
+
 <!-- Gas-Grain Astrochemistry Section -->
 <div class="research-section">
   <div>
