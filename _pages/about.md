@@ -72,7 +72,7 @@ redirect_from:
     <h2>Gas-Grain Astrochemistry</h2>
     <p>This research explores the interactions between gas-phase molecules and solid grains in molecular clouds, particularly in dense regions. It focuses on the kinetics of surface-mediated reactions, essential for understanding the formation of complex organic species and the origins of life in the universe.</p>
   </div>
-  <img src="/images/500x300.png" alt="Gas-Grain Astrochemistry">
+  <img src="/images/gas-grain.PNG" alt="Gas-Grain Astrochemistry">
 </div>
 
 <!-- Quantum Reaction Dynamics Section -->
