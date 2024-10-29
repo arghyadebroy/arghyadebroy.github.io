@@ -81,7 +81,7 @@ redirect_from:
     <h2>Quantum Reaction Dynamics</h2>
     <p>The research in quantum dynamics examines reaction mechanisms in both ground and excited states by generating potential energy surfaces and conducting simulations. This work aims to determine reaction rates for incorporation into astrochemical models, enhancing our understanding of molecular interactions in astrophysical environments.</p>
   </div>
-  <img src="/images/500x300.png" alt="Quantum Dynamics">
+  <img src="/images/rd.png" alt="Quantum Dynamics">
 </div>
 
 <!-- Cosmic Ray Astrochemistry Section -->
@@ -90,7 +90,6 @@ redirect_from:
     <h2>Cosmic Ray Astrochemistry</h2>
     <p>The research in cosmic ray astrochemistry explores the effects of cosmic rays on molecular clouds, particularly in proton-dominated regions (PDRs). I aim to understand how high-energy particles influence molecular formation and use radiative transfer modeling to assess their impact on high ro-vibrational lines of molecules, shedding light on cloud chemistry in low-density star-forming regions.</p>
   </div>
-  <img src="/images/500x300.png" alt="Cosmic Ray Astrochemistry">
 </div>
 
 
