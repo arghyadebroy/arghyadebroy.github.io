@@ -29,7 +29,7 @@ Research Experience
   * Researching Potential Energy Surfaces of Interstellar Reactions
   * Supervisor: Dr. Sangita Sen
 
-**[Astrochemistry@Kolkata Group], IASES Kolkata**  
+**Astrochemistry@Kolkata Group, IASES Kolkata**  
   * Project Student, 2022 – Present
   * Investigating Gas-Grain Surface Chemistry in the Interstellar Medium.
   * Studying Reaction Dynamics of key interstellar species and their application in astrochemical models.
