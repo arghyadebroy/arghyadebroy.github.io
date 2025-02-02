@@ -23,10 +23,10 @@ redirect_from:
   
 </style>
 
-<h1 style="text-align: justify;">Welcome to My Space of Quantum-Astro-Chemie</h1>
+<h1 style="text-align: center;">Welcome to My Space of Quantum-Astro-Chemie</h1>
 <h2 style="text-align: center;">The Nexus of Quantum Chemistry and Molecular Astrophysics</h2>
 
-<p>
+<p style="text-align: justify;">
     I am a master's student at the Indian Institute of Science Education and Research (IISER), Kolkata, exploring the fascinating intersection between quantum chemistry and molecular astrophysics. My research focuses on understanding the complex chemical processes occurring in the Interstellar Medium (ISM), driven by molecular interactions and bombardment of energetic, charged particles (< 1 GeV) dubbed Cosmic-Rays (CRs), triggering a diverse zoo of chemical species interconnected by dynamical pathways.
 </p>
       
