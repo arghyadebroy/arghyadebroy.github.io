@@ -8,32 +8,22 @@ redirect_from:
 ---
 
 <style>
-
   h1 {
-    font-size: 1.5em; /* Smaller font size for the main heading */
-    margin-top: 40px; /* Space above the heading */
+    font-size: 1.5em;
+    margin-top: 40px;
     color: #333;
-    text-align: center; /* Center the heading */
+    text-align: center;
   }
 
   h2 {
-    text-align: center; /* Center the subheading */
+    text-align: center;
     color: #333;
   }
   
-</style>
-
-<h1 style="text-align: center;">Welcome to My Space of Quantum-Astro-Chemie</h1>
-
-<h2 style="text-align: center;">The Nexus of Quantum Chemistry and Molecular Astrophysics</h2>
-
-<p>
-    I am a master's student at the Indian Institute of Science Education and Research (IISER), Kolkata, exploring the fascinating intersection between quantum chemistry and molecular astrophysics. My research focuses on understanding the complex chemical processes occurring in the Interstellar Medium (ISM), driven by molecular interactions and bombardment of energetic, charged particles (< 1 GeV) dubbed Cosmic-Rays (CRs), triggering a diverse zoo of chemical species interconnected by dynamical pathways.
-</p>
-      
----
-
-<style>
+  p {
+    text-align: justify;
+  }
+  
   .research-section {
     display: flex;
     align-items: center;
@@ -41,7 +31,7 @@ redirect_from:
   }
 
   .research-section img {
-    width: 300px;
+    width: 250px;
     height: auto;
     margin-left: 20px;
   }
@@ -50,7 +40,6 @@ redirect_from:
     flex-grow: 1;
   }
 
-  /* Media query for mobile devices */
   @media (max-width: 768px) {
     .research-section {
       flex-direction: column;
@@ -58,15 +47,23 @@ redirect_from:
     }
 
     .research-section img {
-      width: 100%;
+      width: 80%;
       margin: 0 0 10px 0;
     }
   }
 </style>
 
-<h1 style="text-align: center;">Areas of Research</h1>
+<h1>Welcome to My Space of Quantum-Astro-Chemie</h1>
+<h2>The Nexus of Quantum Chemistry and Molecular Astrophysics</h2>
 
-<!-- Gas-Grain Astrochemistry Section -->
+<p>
+    I am a master's student at the Indian Institute of Science Education and Research (IISER), Kolkata, exploring the fascinating intersection between quantum chemistry and molecular astrophysics. My research focuses on understanding the complex chemical processes occurring in the Interstellar Medium (ISM), driven by molecular interactions and bombardment of energetic, charged particles (< 1 GeV) dubbed Cosmic-Rays (CRs), triggering a diverse zoo of chemical species interconnected by dynamical pathways.
+</p>
+
+---
+
+<h1>Areas of Research</h1>
+
 <div class="research-section">
   <div>
     <h2>Gas-Grain Astrochemistry</h2>
@@ -75,7 +72,6 @@ redirect_from:
   <img src="/images/gas-grain.PNG" alt="Gas-Grain Astrochemistry">
 </div>
 
-<!-- Cosmic Ray Astrochemistry Section -->
 <div class="research-section">
   <div>
     <h2>Cosmic Ray Astrochemistry</h2>
@@ -83,7 +79,6 @@ redirect_from:
   </div>
 </div>
 
-<!-- Quantum Reaction Dynamics Section -->
 <div class="research-section">
   <div>
     <h2>Quantum Reaction Dynamics</h2>
@@ -95,6 +90,7 @@ redirect_from:
 ---
 
 ## Research Overview
+<p>
 My research work encompasses three interrelated areas: gas-grain astrochemistry, where I investigate ice surface adsorption, desorption, and surface-mediated chemical reaction pathways and kinetics; the generation of potential energy surfaces and dynamic studies of key reactions that unravel the complexities of interstellar chemistry; and cosmic ray astrochemistry, focusing on how high-energy cosmic rays influence molecular gases and drive chemical processes in interstellar environments. Together, these aspects aim to enhance our understanding of the fundamental processes that govern the formation and evolution of complex species in the molecular universe.
-
+</p>
 
