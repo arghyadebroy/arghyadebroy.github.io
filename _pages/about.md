@@ -75,6 +75,14 @@ redirect_from:
   <img src="/images/gas-grain.PNG" alt="Gas-Grain Astrochemistry">
 </div>
 
+<!-- Cosmic Ray Astrochemistry Section -->
+<div class="research-section">
+  <div>
+    <h2>Cosmic Ray Astrochemistry</h2>
+    <p>The research in cosmic ray astrochemistry explores the effects of cosmic rays on molecular clouds, particularly in proton-dominated regions (PDRs). I aim to understand how high-energy particles influence molecular formation and use radiative transfer modeling to assess their impact on high ro-vibrational lines of molecules, shedding light on cloud chemistry in low-density star-forming regions.</p>
+  </div>
+</div>
+
 <!-- Quantum Reaction Dynamics Section -->
 <div class="research-section">
   <div>
@@ -84,23 +92,9 @@ redirect_from:
   <img src="/images/rd.png" alt="Quantum Dynamics">
 </div>
 
-<!-- Cosmic Ray Astrochemistry Section -->
-<div class="research-section">
-  <div>
-    <h2>Cosmic Ray Astrochemistry</h2>
-    <p>The research in cosmic ray astrochemistry explores the effects of cosmic rays on molecular clouds, particularly in proton-dominated regions (PDRs). I aim to understand how high-energy particles influence molecular formation and use radiative transfer modeling to assess their impact on high ro-vibrational lines of molecules, shedding light on cloud chemistry in low-density star-forming regions.</p>
-  </div>
-</div>
-
-
 ---
 
 ## Research Overview
 My research work encompasses three interrelated areas: gas-grain astrochemistry, where I investigate ice surface adsorption, desorption, and surface-mediated chemical reaction pathways and kinetics; the generation of potential energy surfaces and dynamic studies of key reactions that unravel the complexities of interstellar chemistry; and cosmic ray astrochemistry, focusing on how high-energy cosmic rays influence molecular gases and drive chemical processes in interstellar environments. Together, these aspects aim to enhance our understanding of the fundamental processes that govern the formation and evolution of complex species in the molecular universe.
-
----
-
-### Further Exploration
-To learn more about my research and explore the fascinating aspects of astrochemistry and molecular interactions in the ISM, feel free to dive deeper into the work showcased here. If you have any questions or would like to discuss potential collaborations, I'd be happy to connect and explore exciting possibilities together!
 
 
