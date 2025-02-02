@@ -8,6 +8,16 @@ redirect_from:
 ---
 
 <style>
+  /* Prevent justification for author profile text */
+  .author-profile p {
+    text-align: left; /* Or 'center' depending on your preference */
+  }
+
+  /* Justify the main page text (general paragraphs) */
+  p {
+    text-align: justify;
+  }
+
   h1 {
     font-size: 1.5em; /* Smaller font size for the main heading */
     margin-top: 40px; /* Space above the heading */
@@ -18,10 +28,6 @@ redirect_from:
   h2 {
     text-align: center; /* Center the subheading */
     color: #333;
-  }
-
-  p {
-    text-align: justify; /* Justify the paragraph text */
   }
 
   .research-section {
@@ -94,10 +100,11 @@ redirect_from:
 
 ---
 
-## Research Overview
+<h1 style="text-align: center;">Research Overview</h1>
 <p>
   My research work encompasses three interrelated areas: gas-grain astrochemistry, where I investigate ice surface adsorption, desorption, and surface-mediated chemical reaction pathways and kinetics; the generation of potential energy surfaces and dynamic studies of key reactions that unravel the complexities of interstellar chemistry; and cosmic ray astrochemistry, focusing on how high-energy cosmic rays influence molecular gases and drive chemical processes in interstellar environments. Together, these aspects aim to enhance our understanding of the fundamental processes that govern the formation and evolution of complex species in the molecular universe.
 </p>
+
 
 
 
