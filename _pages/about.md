@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 <style>
   h1 {
     font-size: 1.5em; /* Smaller font size for the main heading */
