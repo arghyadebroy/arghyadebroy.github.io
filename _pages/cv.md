@@ -11,21 +11,10 @@ redirect_from:
 
 Education
 ======
-* Indian Institute of Science Education and Research (IISER) Kolkata, Expected May '25
+**Indian Institute of Science Education and Research (IISER) Kolkata**
+  * Expected May 2025
   * 5-year Integrated BS-MS Dual Degree
   * Chemistry (Major) and Physics (Minor)
-
-Research Affiliations
-======
-**QuantAct Group, IISER Kolkata (PI: Dr. Sangita Sen)**  
-*Master’s Student, 2023 – Present*  
-- Researching Potential Energy Surfaces of Interstellar Reactions.  
-- Computational study on molecular properties using ab initio methods and information theory.  
-
-**[Astrochemistry@Kolkata Group](https://www.iases.org.in/Ankan-web/ankan.html), IASES Kolkata (PI: Dr. Ankan Das)**  
-*Project Student, 2022 – Present*  
-- Investigating Gas-Grain Surface Chemistry in the Interstellar Medium.  
-- Studying Reaction Dynamics of key interstellar species and its application in astrochemical models.
 
 Research Experience
 ======
@@ -35,19 +24,22 @@ Research Experience
   * Supervisor: Dr. Brandt A. L. Gaches
   * Co-Supervisors: Dr. Chia-Jung Hsu; Prof. Jonathan Tan
 
-**Summer 2022: Summer Intern** 
-  * Department of Physical and Inorganic Chemistry, IISc Bangalore
-  * Project on Gas-Grain chemistry: Heterogeneous catalysis study using Density Functional Theory (DFT).
-  * Supervisor: Dr. Atanu Bhattacharya
-  
+**QuantAct Group, IISER Kolkata**  
+  * Project Student, 2023 – Present
+  * Researching Potential Energy Surfaces of Interstellar Reactions
+  * Supervisor: Dr. Sangita Sen
+
+**[Astrochemistry@Kolkata Group], IASES Kolkata**  
+  * Project Student, 2022 – Present
+  * Investigating Gas-Grain Surface Chemistry in the Interstellar Medium.
+  * Studying Reaction Dynamics of key interstellar species and their application in astrochemical models.
+  * Supervisor: Dr. Ankan Das
+
 Technical Skills
 ======
-* Skill: Python, Julia, MATLAB, Shell Scripting, Ubuntu (OS), Windows (OS)
-* Softwares
-  * Writeup: MS Office, LATEX
-  * Plotting: Origin, GnuPlot, Python
-  * Quantum Chem: Gaussian, ORCA, Gamess, Qchem, Avogadro, Multiwfn, ChemCraft
-* Astrochemical codes: RADMC-3D, 3D-PDR
+* Skill: Programming (Python, Julia, MATLAB) / OS (Linux, Windows) / Shell-Scripting
+* Softwares/Packages: Quantum Chemistry (Gaussian, ORCA, Qchem, Gamess) / Plotting (GnuPlot, Origin) / Astrochemical Tools (3DPDR, RADMC3D, Cloudy)
+* Writeup and Analysis: Microsoft Office / LaTex (Documents preparation)
 
 Publications
 ======
@@ -64,7 +56,6 @@ Talks and Presentations
 Lectures and Seminars
 ======
 * IINCM 2024 Conference, IISER Kolkata  *(Best poster award from Royal Society of Chemistry)*
-* SICS 2023 Seminar, IISER Kolkata
 * Evening Course on Astronomy and Astrophysics, IASES, 2023
 * DIG Astrochemistry Webinar, IASES, PRL, Europlanet Society, Niigata University, Quantum Research Center, 2022
   
@@ -76,5 +67,5 @@ Teaching
   
 Fellowship
 ======
-**INSPIRE Fellow, Department of Science & Technology, India**  
+**Innovation in Science Pursuit for Inspired Research (INSPIRE) Fellowship, Department of Science & Technology, India**  
 *2020 – Present* 
