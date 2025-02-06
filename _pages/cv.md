@@ -23,7 +23,7 @@ Research Experience
   * Project on Cosmic Ray Astrochemistry: Investigating radiation Signatures in PDRs
   * Supervisor: Dr. Brandt A. L. Gaches
   * Co-Supervisors: Dr. Chia-Jung Hsu; Prof. Jonathan Tan
-  * Continuing as RA under Dr. Gaches
+  * Continuing as <b>Research Assistant (RA)</b> under Dr. Gaches
 
 **QuantAct Group, IISER Kolkata**  
   * Project Student, 2023 – Present
