@@ -1,5 +1,5 @@
 ---
-title: "CH4202 - Symmetry in Chemistry Course"
+title: "CH4202 - Symmetry in Chemistry"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-spring-teaching
