@@ -26,7 +26,7 @@ Research Experience
   * Continuing as <b>Research Assistant (RA)</b> under Dr. Gaches
 
 **QuantAct Group, IISER Kolkata**  
-  * Project Student, 2023 – Present
+  * Master's Student, 2023 – 2025
   * Researching Potential Energy Surfaces of Interstellar Reactions
   * Supervisor: Dr. Sangita Sen
 
@@ -56,6 +56,7 @@ Talks and Presentations
 
 Lectures and Seminars
 ======
+* PCAMC 2024 Conference, IISER Kolkata
 * IINCM 2024 Conference, IISER Kolkata  *(Best poster award from Royal Society of Chemistry)*
 * Evening Course on Astronomy and Astrophysics, IASES, 2023
 * DIG Astrochemistry Webinar, IASES, PRL, Europlanet Society, Niigata University, Quantum Research Center, 2022
