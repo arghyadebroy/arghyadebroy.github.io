@@ -78,7 +78,7 @@ redirect_from:
     <h2>Quantum Reaction Dynamics</h2>
     <p style="text-align: justify;"> The research in quantum dynamics examines reaction mechanisms by generating potential energy surfaces and conducting simulations. This work aims to determine reaction rates for incorporation into astrochemical models, enhancing our understanding of molecular interactions in astrophysical environments.</p>
   </div>
-  <!-- <img src="/images/rd.png" alt="Quantum Dynamics"> -->
+  <img src="/images/DCS_contour_a3.png" alt="Quantum Dynamics">
 </div>
 
 <!-- Cosmic Ray Astrochemistry Section -->
