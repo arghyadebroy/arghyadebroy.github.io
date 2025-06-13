@@ -72,14 +72,6 @@ redirect_from:
   <img src="/images/gas-grain.PNG" alt="Gas-Grain Astrochemistry">
 </div>
 
-<!-- Cosmic Ray Astrochemistry Section -->
-<div class="research-section">
-  <div>
-    <h2>Cosmic Ray Astrochemistry</h2>
-    <p style="text-align: justify;"> The cosmic ray astrochemistry explores cosmic rays' effects on molecular clouds, particularly in proton-dominated regions (PDRs). I aim to understand how high-energy particles influence molecular formation and use radiative transfer modeling to assess their impact on high rovibrational lines of molecules, shedding light on cloud chemistry in low-density star-forming regions.</p>
-  </div>
-</div>
-
 <!-- Quantum Reaction Dynamics Section -->
 <div class="research-section">
   <div>
@@ -88,6 +80,16 @@ redirect_from:
   </div>
   <!-- <img src="/images/rd.png" alt="Quantum Dynamics"> -->
 </div>
+
+<!-- Cosmic Ray Astrochemistry Section -->
+<div class="research-section">
+  <div>
+    <h2>Cosmic Ray Astrochemistry</h2>
+    <p style="text-align: justify;"> The cosmic ray astrochemistry explores cosmic rays' effects on molecular clouds, particularly in proton-dominated regions (PDRs). I aim to understand how high-energy particles influence molecular formation and use radiative transfer modeling to assess their impact on high rovibrational lines of molecules, shedding light on cloud chemistry in low-density star-forming regions.</p>
+  </div>
+</div>
+
+
 
 <h2 style="text-align: center;">Research Overview</h2>
 <p style="text-align: justify;"> My research work encompasses three interrelated areas: gas-grain astrochemistry, where I investigate ice surface adsorption-desorption and the  dynamic studies of gas-phase key reactions that unravel the complexities of interstellar chemistry; and cosmic ray astrochemistry, focusing on how high-energy cosmic rays influence molecular gases and drive chemical processes in interstellar environments. Together, these aspects aim to enhance our understanding of the fundamental processes that govern the formation and evolution of complex species in the molecular universe.
