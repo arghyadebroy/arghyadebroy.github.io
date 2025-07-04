@@ -90,10 +90,9 @@ redirect_from:
 </div>
 
 
-
+<!--
 <h2 style="text-align: center;">Research Overview</h2>
-<p style="text-align: justify;"> My research work encompasses three interrelated areas: gas-grain astrochemistry, where I investigate ice surface adsorption-desorption and the  dynamic studies of gas-phase key reactions that unravel the complexities of interstellar chemistry; and cosmic ray astrochemistry, focusing on how high-energy cosmic rays influence molecular gases and drive chemical processes in interstellar environments. Together, these aspects aim to enhance our understanding of the fundamental processes that govern the formation and evolution of complex species in the molecular universe.
-
+<p style="text-align: justify;"> My research work encompasses three interrelated areas: gas-grain astrochemistry, where I investigate ice surface adsorption-desorption and the  dynamic studies of gas-phase key reactions that unravel the complexities of interstellar chemistry; and cosmic ray astrochemistry, focusing on how high-energy cosmic rays influence molecular gases and drive chemical processes in interstellar environments. Together, these aspects aim to enhance our understanding of the fundamental processes that govern the formation and evolution of complex species in the molecular universe. -->
 
 
 
