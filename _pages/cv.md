@@ -68,5 +68,5 @@ Teaching
   
 Award & Fellowship
 ======
-* Innovation in Science Pursuit for Inspired Research (INSPIRE) Fellowship, Department of Science & Technology, India  *[2020 – 2025]*
-* CASSUM Research Fellowship, Chalmers University of Technology *[2024]*
+* Innovation in Science Pursuit for Inspired Research (INSPIRE) Fellowship, Department of Science & Technology, India  [2020 – 2025]
+* CASSUM Research Fellowship, Chalmers University of Technology [2024]
